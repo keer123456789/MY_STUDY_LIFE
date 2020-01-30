@@ -1,8 +1,8 @@
-package Head_First.Duck;
+package Head_First.Module_Duck;
 
-import Head_First.Duck.FlyBehavior.FlyNoWay;
-import Head_First.Duck.FlyBehavior.FlyRocketPowered;
-import Head_First.Duck.QuackBehavior.Quack;
+import Head_First.Module_Duck.FlyBehavior.FlyNoWay;
+import Head_First.Module_Duck.FlyBehavior.FlyRocketPowered;
+import Head_First.Module_Duck.QuackBehavior.Quack;
 
 public class ModelDuck extends Duck {
 

@@ -1,4 +1,4 @@
-package Head_First.Duck.QuackBehavior;
+package Head_First.Module_Duck.QuackBehavior;
 
 public class Squeak implements QuackBehavior {
     public void quack() {

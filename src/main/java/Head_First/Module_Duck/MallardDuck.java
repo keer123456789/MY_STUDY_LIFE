@@ -1,7 +1,8 @@
-package Head_First.Duck;
+package Head_First.Module_Duck;
 
-import Head_First.Duck.FlyBehavior.FlyWithWings;
-import Head_First.Duck.QuackBehavior.Quack;
+
+import Head_First.Module_Duck.FlyBehavior.FlyWithWings;
+import Head_First.Module_Duck.QuackBehavior.Quack;
 
 public class MallardDuck extends Duck {
     public MallardDuck(){
@@ -12,7 +13,6 @@ public class MallardDuck extends Duck {
         System.out.println("I am a real Mallard duck");
 
     }
-
     public static void main(String[] args) {
         Duck mallard=new MallardDuck();
         mallard.performFly();
