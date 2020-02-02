@@ -1,6 +1,4 @@
-package Head_First.Module_Observer;
-
-import java.util.Observable;
+package Head_First.Module_Observer.DIYObserver;
 
 /**
  * @BelongsProject: MY_STUDY_LIFE

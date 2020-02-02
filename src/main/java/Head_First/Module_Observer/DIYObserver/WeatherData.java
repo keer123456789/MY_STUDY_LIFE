@@ -1,4 +1,4 @@
-package Head_First.Module_Observer;
+package Head_First.Module_Observer.DIYObserver;
 
 import java.util.ArrayList;
 
