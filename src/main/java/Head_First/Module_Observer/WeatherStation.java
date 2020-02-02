@@ -1,5 +1,7 @@
 package Head_First.Module_Observer;
 
+import java.util.Observable;
+
 /**
  * @BelongsProject: MY_STUDY_LIFE
  * @BelongsPackage: Head_First.Module_Observer
@@ -9,8 +11,9 @@ package Head_First.Module_Observer;
  */
 public class WeatherStation {
     public static void main(String[] args) {
-        WeatherData weatherData=new WeatherData();
-        CurrentConditionsDisplay currentConditionsDisplay=new CurrentConditionsDisplay(weatherData);
-        weatherData.setMeasurements(25.6f,30.5f,33.5f);
+
+        WeatherData weatherData = new WeatherData();
+        CurrentConditionsDisplay currentConditionsDisplay = new CurrentConditionsDisplay(weatherData);
+        weatherData.setMeasurements(25.6f, 30.5f, 33.5f);
     }
 }
