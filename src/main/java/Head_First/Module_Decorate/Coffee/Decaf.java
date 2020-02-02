@@ -9,9 +9,9 @@ import Head_First.Module_Decorate.Coffee.Beverage;
  * @CreateTime: 2020-01-31 16:32
  * @Description: 猫咪咖啡
  */
-public class Decat extends Beverage {
-    public Decat() {
-        description = "Decat";
+public class Decaf extends Beverage {
+    public Decaf() {
+        description = "Decaf";
     }
 
     @Override
