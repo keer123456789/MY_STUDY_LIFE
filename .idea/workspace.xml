@@ -2,13 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6061f01-f067-4032-a7c3-1dcad878e26b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/Coffee/Decat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/Coffee/Decaf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/StarbuzzCoffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/StarbuzzCoffee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Decorate/Coffee/Beverage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Decorate/Coffee/DarkRoast.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Decorate/Coffee/Decat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Decorate/Coffee/Espresso.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Decorate/Coffee/HouseBlend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Decorate/Condiment/CondimentDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Decorate/Condiment/Mocha.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Decorate/Condiment/Soy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Decorate/Condiment/Whip.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Decorate/StarbuzzCoffee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Duck/Duck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Duck/FlyBehavior/FlyBehavior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Duck/FlyBehavior/FlyNoWay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Duck/FlyBehavior/FlyRocketPowered.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Duck/FlyBehavior/FlyWithWings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Duck/MallardDuck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Duck/ModelDuck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Duck/QuackBehavior/MuteQuack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Duck/QuackBehavior/Quack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Duck/QuackBehavior/QuackBehavior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Duck/QuackBehavior/Squeak.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Observer/DIYObserver/CurrentConditionsDisplay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Observer/DIYObserver/DisplayElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Observer/DIYObserver/Observer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Observer/DIYObserver/Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Observer/DIYObserver/WeatherData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Observer/DIYObserver/WeatherStation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Observer/JavaObserver/CurrentConditionsDisplay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Observer/JavaObserver/DisplayElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Observer/JavaObserver/WeatherData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Observer/JavaObserver/WeatherStation.class" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,119 +44,8 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/StarbuzzCoffee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="34" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/Coffee/Beverage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" selection-start-line="9" selection-end-line="17" selection-end-column="1" />
-              <folding>
-                <element signature="e#308#309#0" expanded="true" />
-                <element signature="e#342#343#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/Coffee/DarkRoast.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" selection-start-line="11" selection-end-line="21" />
-              <folding>
-                <element signature="e#324#325#0" expanded="true" />
-                <element signature="e#365#366#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/Coffee/Espresso.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" selection-start-line="11" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/Coffee/Decaf.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" selection-start-line="11" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/Coffee/HouseBlend.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" selection-start-line="11" selection-end-line="22" />
-              <folding>
-                <element signature="e#325#326#0" expanded="true" />
-                <element signature="e#367#368#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/Condiment/CondimentDecorator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" selection-start-line="11" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/Condiment/Mocha.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="26" selection-end-column="1" />
-              <folding>
-                <element signature="e#432#433#0" expanded="true" />
-                <element signature="e#470#471#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/Condiment/Soy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="12" selection-start-line="12" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/Condiment/Whip.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" selection-start-line="12" selection-end-line="28" />
-              <folding>
-                <element signature="e#365#366#0" expanded="true" />
-                <element signature="e#405#406#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="FavoritesManager">
+    <favorites_list name="MY_STUDY_LIFE" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -147,53 +63,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/Head_First/Duck/FlyBehavior.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Head_First/Duck/QuackBehavior.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Head_First/Duck/FlyWithWings.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Head_First/Duck/FlyNoWay.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Head_First/Duck/FlyBehavior/FlyNoWay.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Head_First/Duck/QuackBehavior/Quack.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Head_First/Duck/QuackBehavior/MuteQuack.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Head_First/Duck/QuackBehavior/Squeak.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Head_First/Duck/FlyBehavior/FlyRocketPowered.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Head_First/Duck/ModelDuck.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Leetcode题库/Leetcode_2/LeetCode_2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Leetcode题库/Leetcode_4/LeetCode_4.java" />
-        <option value="$PROJECT_DIR$/src/main/java/GUI/mybigchaindb.jfd" />
-        <option value="$PROJECT_DIR$/src/main/java/Leetcode题库/Leetcode_4/bigchaindb.jfd" />
-        <option value="$PROJECT_DIR$/src/main/java/Head_First/Duck/Duck.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Head_First/Module_Observer/Subject.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Head_First/Module_Observer/Observer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Head_First/Module_Observer/DisplayElement.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Head_First/Module_Observer/WeatherData.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Head_First/Duck/MallardDuck.java" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/Beverage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/CondimentDecorator.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/Decat.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/Espresso.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/HouseBlend.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/Mocha.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/Soy.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/Whip.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/DarkRoast.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/Condiment/Whip.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Head_First/Module_Duck/MallardDuck.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Head_First/Module_Duck/FlyBehavior/FlyBehavior.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Head_First/Module_Duck/QuackBehavior/QuackBehavior.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Head_First/Module_Observer/CurrentConditionsDisplay.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Head_First/Module_Observer/WeatherStation.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Head_First/Module_Observer/DIYObserver/CurrentConditionsDisplay.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Head_First/Module_Observer/JavaObserver/WeatherData.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Head_First/Module_Observer/JavaObserver/CurrentConditionsDisplay.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Head_First/Module_Observer/JavaObserver/WeatherStation.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/StarbuzzCoffee.java" />
-      </list>
-    </option>
-  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -201,94 +70,14 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1000" />
-    <option name="y" value="25" />
-    <option name="width" value="920" />
-    <option name="height" value="1055" />
-  </component>
+  <component name="ProjectId" id="1XI2ZWPuV0XbkrytSYdXUTBmZXt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="MY_STUDY_LIFE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MY_STUDY_LIFE" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MY_STUDY_LIFE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MY_STUDY_LIFE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MY_STUDY_LIFE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MY_STUDY_LIFE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MY_STUDY_LIFE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MY_STUDY_LIFE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MY_STUDY_LIFE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MY_STUDY_LIFE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Head_First" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MY_STUDY_LIFE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MY_STUDY_LIFE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Head_First" type="462c0819:PsiDirectoryNode" />
-              <item name="Module_Decorate" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MY_STUDY_LIFE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MY_STUDY_LIFE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Head_First" type="462c0819:PsiDirectoryNode" />
-              <item name="Module_Decorate" type="462c0819:PsiDirectoryNode" />
-              <item name="Coffee" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MY_STUDY_LIFE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MY_STUDY_LIFE" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Head_First" type="462c0819:PsiDirectoryNode" />
-              <item name="Module_Decorate" type="462c0819:PsiDirectoryNode" />
-              <item name="Condiment" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MY_STUDY_LIFE" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="CatdeaLogs" />
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -299,7 +88,10 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.16831683" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -309,25 +101,13 @@
       <recent name="Head_First.Module_Observer.JavaObserver" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.WeatherStation (1)">
-    <configuration name="LeetCode_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Leetcode题库.Leetcode_4.LeetCode_4" />
+  <component name="RunManager" selected="Application.MyPizza">
+    <configuration name="MallardDuck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Head_First.Module_Duck.MallardDuck" />
       <module name="MY_STUDY_LIFE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Leetcode题库.Leetcode_4.*" />
+          <option name="PATTERN" value="Head_First.Module_Duck.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -335,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MallardDuck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Head_First.Module_Duck.MallardDuck" />
+    <configuration name="MyPizza" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Head_First.Module_Factory.FactoryMethod.MyPizza" />
       <module name="MY_STUDY_LIFE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Head_First.Module_Duck.*" />
+          <option name="PATTERN" value="Head_First.Module_Factory.FactoryMethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -389,18 +169,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.MallardDuck" />
-      <item itemvalue="Application.LeetCode_4" />
       <item itemvalue="Application.WeatherStation" />
       <item itemvalue="Application.StarbuzzCoffee" />
       <item itemvalue="Application.WeatherStation (1)" />
+      <item itemvalue="Application.MyPizza" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyPizza" />
         <item itemvalue="Application.WeatherStation (1)" />
         <item itemvalue="Application.StarbuzzCoffee" />
         <item itemvalue="Application.WeatherStation" />
         <item itemvalue="Application.MallardDuck" />
-        <item itemvalue="Application.LeetCode_4" />
       </list>
     </recent_temporary>
   </component>
@@ -423,83 +203,67 @@
       <workItem from="1580480514043" duration="496000" />
       <workItem from="1580540831197" duration="1538000" />
       <workItem from="1580567637011" duration="878000" />
-      <workItem from="1580604508412" duration="8858000" />
+      <workItem from="1580604508412" duration="10011000" />
+      <workItem from="1580655789801" duration="2848000" />
+      <workItem from="1580711096414" duration="1000000" />
+      <workItem from="1580712353923" duration="553000" />
+      <workItem from="1580717791332" duration="893000" />
+      <workItem from="1580718769646" duration="370000" />
+      <workItem from="1580719349674" duration="15000" />
+      <workItem from="1580720472745" duration="329000" />
+      <workItem from="1580720815267" duration="2560000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50597000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.33002833" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3286119" />
-      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="right" id="Maven" order="9" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2627346" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.3286119" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3281471" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
-      <window_info anchor="right" id="Maven" order="0" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Maven Projects" order="9" />
-    </layout-to-restore>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Notifications" timestamp="1580720897361">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1580720897361" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1580729834790">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1580729834790" />
+    <state width="1537" height="217" key="GridCell.Tab.0.bottom" timestamp="1580731334129">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="217" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580731334129" />
+    <state width="1537" height="217" key="GridCell.Tab.0.center" timestamp="1580731334129">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="217" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580731334129" />
+    <state width="1537" height="217" key="GridCell.Tab.0.left" timestamp="1580731334129">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="217" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580731334129" />
+    <state width="1537" height="217" key="GridCell.Tab.0.right" timestamp="1580731334129">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="217" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580731334129" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1580720932366">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580720932366" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1580720820247">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580720820247" />
+    <state x="431" y="145" key="search.everywhere.popup" timestamp="1580730137571">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1580730137571" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -507,331 +271,91 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Leetcode题库/Leetcode_4/LeetCode_4.java</url>
           <line>40</line>
-          <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Head_First/Module_Observer/DIYObserver/WeatherStation.java</url>
           <line>18</line>
-          <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode题库.java" />
-    <entry file="file://F:/web3j/geth/src/main/java/org/web3j/protocol/geth/JsonRpc2_0Geth.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode题库/Leetcode_2/LeetCode_2.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/GUI/mybigchaindb.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/GUI/mybigchaindb.jfd" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode题库/Leetcode_4/bigchaindb.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode题库/Leetcode_4/bigchaindb.jfd" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Leetcode题库/Leetcode_4/LeetCode_4.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="76">
-            <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Duck/Duck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="35" selection-start-line="5" selection-end-line="35" />
-          <folding>
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#366#367#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#437#438#0" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#528#529#0" expanded="true" />
-            <element signature="e#587#588#0" expanded="true" />
-            <element signature="e#633#634#0" expanded="true" />
-            <element signature="e#698#699#0" expanded="true" />
-            <element signature="e#748#749#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Duck/FlyBehavior/FlyBehavior.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Duck/FlyBehavior/FlyNoWay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="7" />
-          <folding>
-            <element signature="e#114#115#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Duck/FlyBehavior/FlyRocketPowered.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="7" />
-          <folding>
-            <element signature="e#122#123#0" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Duck/FlyBehavior/FlyWithWings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Duck/QuackBehavior/QuackBehavior.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Duck/QuackBehavior/MuteQuack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="7" />
-          <folding>
-            <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Duck/QuackBehavior/Quack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Duck/QuackBehavior/Squeak.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Duck/MallardDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="22" column="1" selection-start-line="6" selection-end-line="22" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Duck/ModelDuck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="12" column="7" selection-start-line="6" selection-end-line="22" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.8.0_161/jre/lib/rt.jar!/java/util/Observer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="8" column="45" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Observer/DIYObserver/DisplayElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Observer/DIYObserver/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Observer/DIYObserver/Subject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Observer/DIYObserver/CurrentConditionsDisplay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="20" column="109" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="109" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/jdk1.8.0_161/jre/lib/rt.jar!/java/util/Observable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
-          <folding>
-            <element signature="e#680#681#0" expanded="true" />
-            <element signature="e#730#731#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Observer/DIYObserver/WeatherStation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Observer/JavaObserver/DisplayElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" selection-start-line="9" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Observer/JavaObserver/CurrentConditionsDisplay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Observer/JavaObserver/WeatherData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="43" lean-forward="true" selection-start-line="11" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Observer/JavaObserver/WeatherStation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" selection-start-line="10" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Observer/DIYObserver/WeatherData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="39" column="11" lean-forward="true" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/Coffee/Beverage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" selection-start-line="9" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/Coffee/DarkRoast.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" selection-start-line="11" selection-end-line="21" />
-          <folding>
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/Coffee/Espresso.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" selection-start-line="11" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/Coffee/Decaf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" selection-start-line="11" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/Coffee/HouseBlend.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" selection-start-line="11" selection-end-line="22" />
-          <folding>
-            <element signature="e#325#326#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/Condiment/CondimentDecorator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" selection-start-line="11" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/Condiment/Mocha.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="26" selection-end-column="1" />
-          <folding>
-            <element signature="e#432#433#0" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/Condiment/Soy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="12" selection-start-line="12" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/Condiment/Whip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" selection-start-line="12" selection-end-line="28" />
-          <folding>
-            <element signature="e#365#366#0" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/StarbuzzCoffee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="34" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.16831683" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.16831683" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Bundled Protobuf Distribution</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.16831683" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.16831683" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>MY_STUDY_LIFE</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.16831683" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>MigLayout</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.16831683" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
