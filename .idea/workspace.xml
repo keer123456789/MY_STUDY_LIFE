@@ -2,39 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6061f01-f067-4032-a7c3-1dcad878e26b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Decorate/Coffee/Beverage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Decorate/Coffee/DarkRoast.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Decorate/Coffee/Decat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Decorate/Coffee/Espresso.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Decorate/Coffee/HouseBlend.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Decorate/Condiment/CondimentDecorator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Decorate/Condiment/Mocha.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Decorate/Condiment/Soy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Decorate/Condiment/Whip.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Decorate/StarbuzzCoffee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Duck/Duck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Duck/FlyBehavior/FlyBehavior.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Duck/FlyBehavior/FlyNoWay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Duck/FlyBehavior/FlyRocketPowered.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Duck/FlyBehavior/FlyWithWings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Duck/MallardDuck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Duck/ModelDuck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Duck/QuackBehavior/MuteQuack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Duck/QuackBehavior/Quack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Duck/QuackBehavior/QuackBehavior.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Duck/QuackBehavior/Squeak.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Observer/DIYObserver/CurrentConditionsDisplay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Observer/DIYObserver/DisplayElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Observer/DIYObserver/Observer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Observer/DIYObserver/Subject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Observer/DIYObserver/WeatherData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Observer/DIYObserver/WeatherStation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Observer/JavaObserver/CurrentConditionsDisplay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Observer/JavaObserver/DisplayElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Observer/JavaObserver/WeatherData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module_Observer/JavaObserver/WeatherStation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/SimplePizzaFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/SimpleFactory/SimplePizzaFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,18 +180,11 @@
       <workItem from="1580718769646" duration="370000" />
       <workItem from="1580719349674" duration="15000" />
       <workItem from="1580720472745" duration="329000" />
-      <workItem from="1580720815267" duration="2560000" />
+      <workItem from="1580720815267" duration="3643000" />
+      <workItem from="1581122012363" duration="59000" />
+      <workItem from="1581227336744" duration="2432000" />
     </task>
     <servers />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -236,34 +198,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1580729834790" />
-    <state width="1537" height="217" key="GridCell.Tab.0.bottom" timestamp="1580731334129">
+    <state width="1537" height="217" key="GridCell.Tab.0.bottom" timestamp="1580731485721">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="217" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580731334129" />
-    <state width="1537" height="217" key="GridCell.Tab.0.center" timestamp="1580731334129">
+    <state width="1537" height="217" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580731485721" />
+    <state width="1537" height="217" key="GridCell.Tab.0.center" timestamp="1580731485721">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="217" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580731334129" />
-    <state width="1537" height="217" key="GridCell.Tab.0.left" timestamp="1580731334129">
+    <state width="1537" height="217" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580731485721" />
+    <state width="1537" height="217" key="GridCell.Tab.0.left" timestamp="1580731485721">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="217" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580731334129" />
-    <state width="1537" height="217" key="GridCell.Tab.0.right" timestamp="1580731334129">
+    <state width="1537" height="217" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580731485721" />
+    <state width="1537" height="217" key="GridCell.Tab.0.right" timestamp="1580731485721">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1537" height="217" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580731334129" />
-    <state x="270" y="54" key="SettingsEditor" timestamp="1580720932366">
+    <state width="1537" height="217" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580731485721" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1580731605177">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580720932366" />
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1580720820247">
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1580731605177" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1581227338498">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580720820247" />
-    <state x="431" y="145" key="search.everywhere.popup" timestamp="1580730137571">
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1581227338498" />
+    <state x="41" y="190" key="run.anything.popup" timestamp="1581228339269">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1580730137571" />
+    <state x="41" y="190" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1581228339269" />
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1581228920500">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="430" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1581228920500" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -280,82 +246,5 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.16831683" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.16831683" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Bundled Protobuf Distribution</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.16831683" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.16831683" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>MY_STUDY_LIFE</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.16831683" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>MigLayout</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.16831683" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
