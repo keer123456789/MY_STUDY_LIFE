@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f6061f01-f067-4032-a7c3-1dcad878e26b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/SimplePizzaFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/SimpleFactory/SimplePizzaFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,13 +69,13 @@
       <recent name="Head_First.Module_Observer.JavaObserver" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyPizza">
-    <configuration name="MallardDuck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Head_First.Module_Duck.MallardDuck" />
+  <component name="RunManager" selected="Application.PizzaTestDrive">
+    <configuration name="MyPizza" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Head_First.Module_Factory.FactoryMethod.MyPizza" />
       <module name="MY_STUDY_LIFE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Head_First.Module_Duck.*" />
+          <option name="PATTERN" value="Head_First.Module_Factory.FactoryMethod.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +83,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyPizza" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Head_First.Module_Factory.FactoryMethod.MyPizza" />
+    <configuration name="PizzaTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Head_First.Module_Factory.AbstractFactory.PizzaTestDrive" />
       <module name="MY_STUDY_LIFE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Head_First.Module_Factory.FactoryMethod.*" />
+          <option name="PATTERN" value="Head_First.Module_Factory.AbstractFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PizzaTestDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Head_First.Module_Factory.SimpleFactory.PizzaTestDriver" />
+      <module name="MY_STUDY_LIFE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Head_First.Module_Factory.SimpleFactory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,33 +135,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WeatherStation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Head_First.Module_Observer.DIYObserver.WeatherStation" />
-      <module name="MY_STUDY_LIFE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Head_First.Module_Observer.DIYObserver.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.MallardDuck" />
-      <item itemvalue="Application.WeatherStation" />
       <item itemvalue="Application.StarbuzzCoffee" />
       <item itemvalue="Application.WeatherStation (1)" />
       <item itemvalue="Application.MyPizza" />
+      <item itemvalue="Application.PizzaTestDriver" />
+      <item itemvalue="Application.PizzaTestDrive" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PizzaTestDrive" />
+        <item itemvalue="Application.PizzaTestDriver" />
         <item itemvalue="Application.MyPizza" />
         <item itemvalue="Application.WeatherStation (1)" />
         <item itemvalue="Application.StarbuzzCoffee" />
-        <item itemvalue="Application.WeatherStation" />
-        <item itemvalue="Application.MallardDuck" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +181,7 @@
       <workItem from="1580720472745" duration="329000" />
       <workItem from="1580720815267" duration="3643000" />
       <workItem from="1581122012363" duration="59000" />
-      <workItem from="1581227336744" duration="2432000" />
+      <workItem from="1581227336744" duration="9045000" />
     </task>
     <servers />
   </component>
