@@ -6,7 +6,7 @@ public class Waitress {
 	public Waitress() {
 	}
 
-	public void setOrder(Order order){
+	private void setOrder(Order order){
 		this.order=order;
 	}
 
