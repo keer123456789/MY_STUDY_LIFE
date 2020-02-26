@@ -1,4 +1,4 @@
-package Head_First.Module_Iterator;
+package Head_First.Module_Iterator.DIYIterator;
 
 /**
  * @BelongsProject: MY_STUDY_LIFE
@@ -8,10 +8,10 @@ package Head_First.Module_Iterator;
  * @Description: 菜单
  */
 public class MenuItem {
-    String name;
-    String description;
-    boolean vegetarian;
-    double price;
+    String name;//菜名
+    String description;//菜品描述
+    boolean vegetarian;//是否为素食
+    double price;//价格
 
     public MenuItem(String name, String description, boolean vegetarian, double price) {
         this.name = name;

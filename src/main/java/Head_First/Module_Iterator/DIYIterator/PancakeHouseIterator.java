@@ -1,4 +1,4 @@
-package Head_First.Module_Iterator;
+package Head_First.Module_Iterator.DIYIterator;
 
 import java.util.ArrayList;
 
