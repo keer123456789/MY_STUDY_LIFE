@@ -2,177 +2,327 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6061f01-f067-4032-a7c3-1dcad878e26b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/dinerCommand/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Duck/FlyBehavior/FlyBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Factory/ChicagoPizzaIngredientFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Factory/NYPizzaIngredientFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/CheeseImpl/MozzarellaCheese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/CheeseImpl/ReggianoCheese.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/DoughImpl/ThinCrustDough.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/PepperoniImpl/SlicedPepperoni.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/SauceImpl/MarinaraSauce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/VeggiesImpl/BlackOlives.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/VeggiesImpl/Eggplant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/VeggiesImpl/Garlic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/VeggiesImpl/Mushroom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/VeggiesImpl/Onion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/VeggiesImpl/RedPepper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/VeggiesImpl/Spinach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Command/dinerCommand/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Duck/FlyBehavior/FlyBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/AbstractFactory/Factory/ChicagoPizzaIngredientFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/AbstractFactory/Factory/NYPizzaIngredientFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Adapter/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Adapter/Duck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Adapter/DuckAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Adapter/DuckAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Adapter/DuckTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Adapter/DuckTestDrive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Adapter/MallardDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Adapter/MallardDuck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Adapter/Turkey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Adapter/Turkey.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Adapter/TurkeyAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Adapter/TurkeyAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Adapter/TurkeyTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Adapter/TurkeyTestDrive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Adapter/WildTurkey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Adapter/WildTurkey.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Command/diner/Cook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/diner/Cook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Command/diner/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/diner/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Command/diner/Diner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/diner/Diner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Command/diner/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/diner/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Command/diner/Waitress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/diner/Waitress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Command/dinerCommand/Cook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/dinerCommand/Cook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Command/dinerCommand/CookMakeBurgerCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/dinerCommand/CookMakeBurgerCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Command/dinerCommand/CookMakeFriesCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/dinerCommand/CookMakeFriesCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Command/dinerCommand/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/dinerCommand/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Command/dinerCommand/Diner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/dinerCommand/Diner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Command/dinerCommand/Order.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Command/dinerCommand/Waitress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/dinerCommand/Waitress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Command/simpleremote/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/simpleremote/Command.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Command/simpleremote/GarageDoor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/simpleremote/GarageDoor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Command/simpleremote/GarageDoorDownCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/simpleremote/GarageDoorDownCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Command/simpleremote/GarageDoorLightOffCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/simpleremote/GarageDoorLightOffCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Command/simpleremote/GarageDoorOpenCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/simpleremote/GarageDoorOpenCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Command/simpleremote/GarageDoorStopCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/simpleremote/GarageDoorStopCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Command/simpleremote/GarageLightOnCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/simpleremote/GarageLightOnCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Command/simpleremote/Light.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/simpleremote/Light.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Command/simpleremote/LightOffCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/simpleremote/LightOffCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Command/simpleremote/LightOnCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/simpleremote/LightOnCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Command/simpleremote/RemoteControlTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/simpleremote/RemoteControlTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Command/simpleremote/SimpleRemoteControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/simpleremote/SimpleRemoteControl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/Coffee/Beverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Decorate/Coffee/Beverage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/Coffee/DarkRoast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Decorate/Coffee/DarkRoast.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/Coffee/Decaf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Decorate/Coffee/Decaf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/Coffee/Espresso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Decorate/Coffee/Espresso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/Coffee/HouseBlend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Decorate/Coffee/HouseBlend.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/Condiment/CondimentDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Decorate/Condiment/CondimentDecorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/Condiment/Mocha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Decorate/Condiment/Mocha.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/Condiment/Soy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Decorate/Condiment/Soy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/Condiment/Whip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Decorate/Condiment/Whip.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Decorate/StarbuzzCoffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Decorate/StarbuzzCoffee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Duck/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Duck/Duck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Duck/FlyBehavior/FlyBehavior.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Duck/FlyBehavior/FlyNoWay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Duck/FlyBehavior/FlyNoWay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Duck/FlyBehavior/FlyRocketPowered.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Duck/FlyBehavior/FlyRocketPowered.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Duck/FlyBehavior/FlyWithWings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Duck/FlyBehavior/FlyWithWings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Duck/MallardDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Duck/MallardDuck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Duck/ModelDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Duck/ModelDuck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Duck/QuackBehavior/MuteQuack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Duck/QuackBehavior/MuteQuack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Duck/QuackBehavior/Quack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Duck/QuackBehavior/Quack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Duck/QuackBehavior/QuackBehavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Duck/QuackBehavior/QuackBehavior.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Duck/QuackBehavior/Squeak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Duck/QuackBehavior/Squeak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/AbstractFactory/Factory/ChicagoPizzaIngredientFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/AbstractFactory/Factory/NYPizzaIngredientFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/AbstractFactory/Factory/PizzaIngredientFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Factory/PizzaIngredientFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/AbstractFactory/Ingredient/Cheese.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/Cheese.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/AbstractFactory/Ingredient/CheeseImpl/MozzarellaCheese.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/AbstractFactory/Ingredient/CheeseImpl/ReggianoCheese.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/AbstractFactory/Ingredient/Clams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/Clams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/AbstractFactory/Ingredient/ClamsImpl/FreshClams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/ClamsImpl/FreshClams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/AbstractFactory/Ingredient/ClamsImpl/FrozenClams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/ClamsImpl/FrozenClams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/AbstractFactory/Ingredient/Dough.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/Dough.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/AbstractFactory/Ingredient/DoughImpl/ThickCrustDough.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/DoughImpl/ThickCrustDough.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/AbstractFactory/Ingredient/DoughImpl/ThinCrustDough.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/AbstractFactory/Ingredient/Pepperoni.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/Pepperoni.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/AbstractFactory/Ingredient/PepperoniImpl/SlicedPepperoni.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/AbstractFactory/Ingredient/Sauce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/Sauce.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/AbstractFactory/Ingredient/SauceImpl/MarinaraSauce.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/AbstractFactory/Ingredient/SauceImpl/PlumTomatoSauce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/SauceImpl/PlumTomatoSauce.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/AbstractFactory/Ingredient/Veggies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/Veggies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/AbstractFactory/Ingredient/VeggiesImpl/BlackOlives.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/AbstractFactory/Ingredient/VeggiesImpl/Eggplant.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/AbstractFactory/Ingredient/VeggiesImpl/Garlic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/AbstractFactory/Ingredient/VeggiesImpl/Mushroom.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/AbstractFactory/Ingredient/VeggiesImpl/Onion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/AbstractFactory/Ingredient/VeggiesImpl/RedPepper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/AbstractFactory/Ingredient/VeggiesImpl/Spinach.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/AbstractFactory/Pizza/CheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Pizza/CheesePizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/AbstractFactory/Pizza/ClamPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Pizza/ClamPizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/AbstractFactory/Pizza/PepperoniPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Pizza/PepperoniPizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/AbstractFactory/Pizza/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Pizza/Pizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/AbstractFactory/Pizza/VeggiePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Pizza/VeggiePizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/AbstractFactory/PizzaStore/ChicagoPizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/PizzaStore/ChicagoPizzaStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/AbstractFactory/PizzaStore/NYPizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/PizzaStore/NYPizzaStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/AbstractFactory/PizzaStore/PizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/PizzaStore/PizzaStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/AbstractFactory/PizzaTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/PizzaTestDrive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/FactoryMethod/MyPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/FactoryMethod/MyPizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/FactoryMethod/Pizza/ChicagoStyleCheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/FactoryMethod/Pizza/ChicagoStyleCheesePizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/FactoryMethod/Pizza/ChicagoStyleClamPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/FactoryMethod/Pizza/ChicagoStyleClamPizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/FactoryMethod/Pizza/ChicagoStylePepperoniPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/FactoryMethod/Pizza/ChicagoStylePepperoniPizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/FactoryMethod/Pizza/ChicagoStyleVeggiePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/FactoryMethod/Pizza/ChicagoStyleVeggiePizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/FactoryMethod/Pizza/NYStyleCheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/FactoryMethod/Pizza/NYStyleCheesePizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/FactoryMethod/Pizza/NYStyleClamPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/FactoryMethod/Pizza/NYStyleClamPizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/FactoryMethod/Pizza/NYStylePepperoniPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/FactoryMethod/Pizza/NYStylePepperoniPizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/FactoryMethod/Pizza/NYStyleVeggiePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/FactoryMethod/Pizza/NYStyleVeggiePizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/FactoryMethod/Pizza/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/FactoryMethod/Pizza/Pizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/FactoryMethod/PizzaStore/ChicagoPizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/FactoryMethod/PizzaStore/ChicagoPizzaStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/FactoryMethod/PizzaStore/NYPizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/FactoryMethod/PizzaStore/NYPizzaStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/FactoryMethod/PizzaStore/PizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/FactoryMethod/PizzaStore/PizzaStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/SimpleFactory/CheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/SimpleFactory/CheesePizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/SimpleFactory/ClamPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/SimpleFactory/ClamPizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/SimpleFactory/PepperoniPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/SimpleFactory/PepperoniPizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/SimpleFactory/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/SimpleFactory/Pizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/SimpleFactory/PizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/SimpleFactory/PizzaStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/SimpleFactory/PizzaTestDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/SimpleFactory/PizzaTestDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/SimpleFactory/SimplePizzaFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/SimpleFactory/SimplePizzaFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Factory/SimpleFactory/VeggiePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/SimpleFactory/VeggiePizza.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Iterator/DIYIterator/DinerMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Iterator/DIYIterator/DinerMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Iterator/DIYIterator/DinerMenuIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Iterator/DIYIterator/DinerMenuIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Iterator/DIYIterator/Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Iterator/DIYIterator/Iterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Iterator/DIYIterator/MenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Iterator/DIYIterator/MenuItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Iterator/DIYIterator/MenuTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Iterator/DIYIterator/MenuTestDrive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Iterator/DIYIterator/PancakeHouseIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Iterator/DIYIterator/PancakeHouseIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Iterator/DIYIterator/PancakeHouseMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Iterator/DIYIterator/PancakeHouseMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Iterator/DIYIterator/Waitress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Iterator/DIYIterator/Waitress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Iterator/InternalIterator/DinerMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Iterator/InternalIterator/DinerMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Iterator/InternalIterator/DinerMenuIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Iterator/InternalIterator/DinerMenuIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Iterator/InternalIterator/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Iterator/InternalIterator/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Iterator/InternalIterator/MenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Iterator/InternalIterator/MenuItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Iterator/InternalIterator/MenuTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Iterator/InternalIterator/MenuTestDrive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Iterator/InternalIterator/PancakeHouseMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Iterator/InternalIterator/PancakeHouseMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Iterator/InternalIterator/Waitress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Iterator/InternalIterator/Waitress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Observer/DIYObserver/CurrentConditionsDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Observer/DIYObserver/CurrentConditionsDisplay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Observer/DIYObserver/DisplayElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Observer/JavaObserver/DisplayElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Observer/DIYObserver/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Observer/DIYObserver/Observer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Observer/DIYObserver/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Observer/DIYObserver/Subject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Observer/DIYObserver/WeatherData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Observer/DIYObserver/WeatherData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Observer/DIYObserver/WeatherStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Observer/DIYObserver/WeatherStation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Observer/JavaObserver/CurrentConditionsDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Observer/JavaObserver/CurrentConditionsDisplay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Observer/JavaObserver/DisplayElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Observer/DIYObserver/DisplayElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Observer/JavaObserver/WeatherData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Observer/JavaObserver/WeatherData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Observer/JavaObserver/WeatherStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Observer/JavaObserver/WeatherStation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Singleton/chocolate/ChocolateBoiler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Singleton/chocolate/ChocolateBoiler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Singleton/chocolate/ChocolateController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Singleton/chocolate/ChocolateController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Singleton/classic/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Singleton/classic/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Singleton/classic/SingletonClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Singleton/classic/SingletonClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Singleton/doubleCheck/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Singleton/doubleCheck/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Singleton/doubleCheck/SingletonClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Singleton/doubleCheck/SingletonClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Singleton/eagerly/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Singleton/eagerly/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Singleton/eagerly/SingletonClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Singleton/eagerly/SingletonClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Singleton/threadsafe/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Singleton/threadsafe/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_Singleton/threadsafe/SingletonClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Singleton/threadsafe/SingletonClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_TemplateMethod/Beverage/BeverageTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_TemplateMethod/Beverage/BeverageTestDrive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_TemplateMethod/Beverage/CaffeineBeverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_TemplateMethod/Beverage/CaffeineBeverage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_TemplateMethod/Beverage/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_TemplateMethod/Beverage/Coffee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_TemplateMethod/Beverage/Tea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_TemplateMethod/Beverage/Tea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_TemplateMethod/BeverageWithHook/BeverageTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_TemplateMethod/BeverageWithHook/BeverageTestDrive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_TemplateMethod/BeverageWithHook/CaffeineBeverageWithHook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_TemplateMethod/BeverageWithHook/CaffeineBeverageWithHook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_TemplateMethod/BeverageWithHook/CoffeeWithHook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_TemplateMethod/BeverageWithHook/CoffeeWithHook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_TemplateMethod/BeverageWithHook/TeaWithHook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_TemplateMethod/BeverageWithHook/TeaWithHook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_TemplateMethod/Simple/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_TemplateMethod/Simple/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_TemplateMethod/Simple/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_TemplateMethod/Simple/Coffee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module_TemplateMethod/Simple/Tea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_TemplateMethod/Simple/Tea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/JAVA/SimpleChatClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/SimpleChat/SimpleChatClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/JAVA/SimpleChatServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/SimpleChat/SimpleChatServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Adapter/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Adapter/Duck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Adapter/DuckAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Adapter/DuckAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Adapter/DuckTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Adapter/DuckTestDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Adapter/MallardDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Adapter/MallardDuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Adapter/Turkey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Adapter/Turkey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Adapter/TurkeyAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Adapter/TurkeyAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Adapter/TurkeyTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Adapter/TurkeyTestDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Adapter/WildTurkey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Adapter/WildTurkey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/diner/Cook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Command/diner/Cook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/diner/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Command/diner/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/diner/Diner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Command/diner/Diner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/diner/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Command/diner/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/diner/Waitress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Command/diner/Waitress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/dinerCommand/Cook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Command/dinerCommand/Cook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/dinerCommand/CookMakeBurgerCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Command/dinerCommand/CookMakeBurgerCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/dinerCommand/CookMakeFriesCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Command/dinerCommand/CookMakeFriesCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/dinerCommand/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Command/dinerCommand/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/dinerCommand/Diner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Command/dinerCommand/Diner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/dinerCommand/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/dinerCommand/Waitress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Command/dinerCommand/Waitress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/simpleremote/Command.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Command/simpleremote/Command.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/simpleremote/GarageDoor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Command/simpleremote/GarageDoor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/simpleremote/GarageDoorDownCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Command/simpleremote/GarageDoorDownCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/simpleremote/GarageDoorLightOffCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Command/simpleremote/GarageDoorLightOffCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/simpleremote/GarageDoorOpenCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Command/simpleremote/GarageDoorOpenCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/simpleremote/GarageDoorStopCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Command/simpleremote/GarageDoorStopCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/simpleremote/GarageLightOnCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Command/simpleremote/GarageLightOnCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/simpleremote/Light.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Command/simpleremote/Light.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/simpleremote/LightOffCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Command/simpleremote/LightOffCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/simpleremote/LightOnCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Command/simpleremote/LightOnCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/simpleremote/RemoteControlTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Command/simpleremote/RemoteControlTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Command/simpleremote/SimpleRemoteControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Command/simpleremote/SimpleRemoteControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Decorate/Coffee/Beverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Decorate/Coffee/Beverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Decorate/Coffee/DarkRoast.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Decorate/Coffee/DarkRoast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Decorate/Coffee/Decaf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Decorate/Coffee/Decaf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Decorate/Coffee/Espresso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Decorate/Coffee/Espresso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Decorate/Coffee/HouseBlend.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Decorate/Coffee/HouseBlend.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Decorate/Condiment/CondimentDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Decorate/Condiment/CondimentDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Decorate/Condiment/Mocha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Decorate/Condiment/Mocha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Decorate/Condiment/Soy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Decorate/Condiment/Soy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Decorate/Condiment/Whip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Decorate/Condiment/Whip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Decorate/StarbuzzCoffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Decorate/StarbuzzCoffee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Duck/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Duck/Duck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Duck/FlyBehavior/FlyBehavior.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Duck/FlyBehavior/FlyNoWay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Duck/FlyBehavior/FlyNoWay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Duck/FlyBehavior/FlyRocketPowered.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Duck/FlyBehavior/FlyRocketPowered.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Duck/FlyBehavior/FlyWithWings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Duck/FlyBehavior/FlyWithWings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Duck/MallardDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Duck/MallardDuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Duck/ModelDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Duck/ModelDuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Duck/QuackBehavior/MuteQuack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Duck/QuackBehavior/MuteQuack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Duck/QuackBehavior/Quack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Duck/QuackBehavior/Quack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Duck/QuackBehavior/QuackBehavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Duck/QuackBehavior/QuackBehavior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Duck/QuackBehavior/Squeak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Duck/QuackBehavior/Squeak.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Factory/ChicagoPizzaIngredientFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Factory/NYPizzaIngredientFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Factory/PizzaIngredientFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/AbstractFactory/Factory/PizzaIngredientFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/Cheese.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/AbstractFactory/Ingredient/Cheese.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/CheeseImpl/MozzarellaCheese.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/AbstractFactory/Ingredient/CheeseImpl/MozzarellaCheese.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/CheeseImpl/ReggianoCheese.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/AbstractFactory/Ingredient/CheeseImpl/ReggianoCheese.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/Clams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/AbstractFactory/Ingredient/Clams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/ClamsImpl/FreshClams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/AbstractFactory/Ingredient/ClamsImpl/FreshClams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/ClamsImpl/FrozenClams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/AbstractFactory/Ingredient/ClamsImpl/FrozenClams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/Dough.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/AbstractFactory/Ingredient/Dough.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/DoughImpl/ThickCrustDough.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/AbstractFactory/Ingredient/DoughImpl/ThickCrustDough.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/DoughImpl/ThinCrustDough.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/AbstractFactory/Ingredient/DoughImpl/ThinCrustDough.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/Pepperoni.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/AbstractFactory/Ingredient/Pepperoni.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/PepperoniImpl/SlicedPepperoni.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/AbstractFactory/Ingredient/PepperoniImpl/SlicedPepperoni.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/Sauce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/AbstractFactory/Ingredient/Sauce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/SauceImpl/MarinaraSauce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/AbstractFactory/Ingredient/SauceImpl/MarinaraSauce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/SauceImpl/PlumTomatoSauce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/AbstractFactory/Ingredient/SauceImpl/PlumTomatoSauce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/Veggies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/AbstractFactory/Ingredient/Veggies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/VeggiesImpl/BlackOlives.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/AbstractFactory/Ingredient/VeggiesImpl/BlackOlives.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/VeggiesImpl/Eggplant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/AbstractFactory/Ingredient/VeggiesImpl/Eggplant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/VeggiesImpl/Garlic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/AbstractFactory/Ingredient/VeggiesImpl/Garlic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/VeggiesImpl/Mushroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/AbstractFactory/Ingredient/VeggiesImpl/Mushroom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/VeggiesImpl/Onion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/AbstractFactory/Ingredient/VeggiesImpl/Onion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/VeggiesImpl/RedPepper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/AbstractFactory/Ingredient/VeggiesImpl/RedPepper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/VeggiesImpl/Spinach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/AbstractFactory/Ingredient/VeggiesImpl/Spinach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Pizza/CheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/AbstractFactory/Pizza/CheesePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Pizza/ClamPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/AbstractFactory/Pizza/ClamPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Pizza/PepperoniPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/AbstractFactory/Pizza/PepperoniPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Pizza/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/AbstractFactory/Pizza/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/Pizza/VeggiePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/AbstractFactory/Pizza/VeggiePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/PizzaStore/ChicagoPizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/AbstractFactory/PizzaStore/ChicagoPizzaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/PizzaStore/NYPizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/AbstractFactory/PizzaStore/NYPizzaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/PizzaStore/PizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/AbstractFactory/PizzaStore/PizzaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/AbstractFactory/PizzaTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/AbstractFactory/PizzaTestDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/FactoryMethod/MyPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/FactoryMethod/MyPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/FactoryMethod/Pizza/ChicagoStyleCheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/FactoryMethod/Pizza/ChicagoStyleCheesePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/FactoryMethod/Pizza/ChicagoStyleClamPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/FactoryMethod/Pizza/ChicagoStyleClamPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/FactoryMethod/Pizza/ChicagoStylePepperoniPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/FactoryMethod/Pizza/ChicagoStylePepperoniPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/FactoryMethod/Pizza/ChicagoStyleVeggiePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/FactoryMethod/Pizza/ChicagoStyleVeggiePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/FactoryMethod/Pizza/NYStyleCheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/FactoryMethod/Pizza/NYStyleCheesePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/FactoryMethod/Pizza/NYStyleClamPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/FactoryMethod/Pizza/NYStyleClamPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/FactoryMethod/Pizza/NYStylePepperoniPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/FactoryMethod/Pizza/NYStylePepperoniPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/FactoryMethod/Pizza/NYStyleVeggiePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/FactoryMethod/Pizza/NYStyleVeggiePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/FactoryMethod/Pizza/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/FactoryMethod/Pizza/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/FactoryMethod/PizzaStore/ChicagoPizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/FactoryMethod/PizzaStore/ChicagoPizzaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/FactoryMethod/PizzaStore/NYPizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/FactoryMethod/PizzaStore/NYPizzaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/FactoryMethod/PizzaStore/PizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/FactoryMethod/PizzaStore/PizzaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/SimpleFactory/CheesePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/SimpleFactory/CheesePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/SimpleFactory/ClamPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/SimpleFactory/ClamPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/SimpleFactory/PepperoniPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/SimpleFactory/PepperoniPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/SimpleFactory/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/SimpleFactory/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/SimpleFactory/PizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/SimpleFactory/PizzaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/SimpleFactory/PizzaTestDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/SimpleFactory/PizzaTestDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/SimpleFactory/SimplePizzaFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/SimpleFactory/SimplePizzaFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Factory/SimpleFactory/VeggiePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Factory/SimpleFactory/VeggiePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Iterator/DIYIterator/DinerMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Iterator/DIYIterator/DinerMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Iterator/DIYIterator/DinerMenuIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Iterator/DIYIterator/DinerMenuIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Iterator/DIYIterator/Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Iterator/DIYIterator/Iterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Iterator/DIYIterator/MenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Iterator/DIYIterator/MenuItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Iterator/DIYIterator/MenuTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Iterator/DIYIterator/MenuTestDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Iterator/DIYIterator/PancakeHouseIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Iterator/DIYIterator/PancakeHouseIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Iterator/DIYIterator/PancakeHouseMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Iterator/DIYIterator/PancakeHouseMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Iterator/DIYIterator/Waitress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Iterator/DIYIterator/Waitress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Iterator/InternalIterator/DinerMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Iterator/InternalIterator/DinerMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Iterator/InternalIterator/DinerMenuIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Iterator/InternalIterator/DinerMenuIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Iterator/InternalIterator/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Iterator/InternalIterator/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Iterator/InternalIterator/MenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Iterator/InternalIterator/MenuItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Iterator/InternalIterator/MenuTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Iterator/InternalIterator/MenuTestDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Iterator/InternalIterator/PancakeHouseMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Iterator/InternalIterator/PancakeHouseMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Iterator/InternalIterator/Waitress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Iterator/InternalIterator/Waitress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Observer/DIYObserver/CurrentConditionsDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Observer/DIYObserver/CurrentConditionsDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Observer/DIYObserver/DisplayElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Observer/DIYObserver/DisplayElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Observer/DIYObserver/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Observer/DIYObserver/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Observer/DIYObserver/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Observer/DIYObserver/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Observer/DIYObserver/WeatherData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Observer/DIYObserver/WeatherData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Observer/DIYObserver/WeatherStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Observer/DIYObserver/WeatherStation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Observer/JavaObserver/CurrentConditionsDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Observer/JavaObserver/CurrentConditionsDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Observer/JavaObserver/DisplayElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Observer/JavaObserver/DisplayElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Observer/JavaObserver/WeatherData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Observer/JavaObserver/WeatherData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Observer/JavaObserver/WeatherStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Observer/JavaObserver/WeatherStation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Singleton/chocolate/ChocolateBoiler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Singleton/chocolate/ChocolateBoiler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Singleton/chocolate/ChocolateController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Singleton/chocolate/ChocolateController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Singleton/classic/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Singleton/classic/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Singleton/classic/SingletonClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Singleton/classic/SingletonClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Singleton/doubleCheck/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Singleton/doubleCheck/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Singleton/doubleCheck/SingletonClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Singleton/doubleCheck/SingletonClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Singleton/eagerly/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Singleton/eagerly/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Singleton/eagerly/SingletonClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Singleton/eagerly/SingletonClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Singleton/threadsafe/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Singleton/threadsafe/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Singleton/threadsafe/SingletonClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_Singleton/threadsafe/SingletonClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_TemplateMethod/Beverage/BeverageTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_TemplateMethod/Beverage/BeverageTestDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_TemplateMethod/Beverage/CaffeineBeverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_TemplateMethod/Beverage/CaffeineBeverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_TemplateMethod/Beverage/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_TemplateMethod/Beverage/Coffee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_TemplateMethod/Beverage/Tea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_TemplateMethod/Beverage/Tea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_TemplateMethod/BeverageWithHook/BeverageTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_TemplateMethod/BeverageWithHook/BeverageTestDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_TemplateMethod/BeverageWithHook/CaffeineBeverageWithHook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_TemplateMethod/BeverageWithHook/CaffeineBeverageWithHook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_TemplateMethod/BeverageWithHook/CoffeeWithHook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_TemplateMethod/BeverageWithHook/CoffeeWithHook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_TemplateMethod/BeverageWithHook/TeaWithHook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_TemplateMethod/BeverageWithHook/TeaWithHook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_TemplateMethod/Simple/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_TemplateMethod/Simple/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_TemplateMethod/Simple/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_TemplateMethod/Simple/Coffee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Head_First/Module/Module_TemplateMethod/Simple/Tea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/study/Module/Module_TemplateMethod/Simple/Tea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/JAVA/SimpleChatClient$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/JAVA/SimpleChatClient$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/JAVA/SimpleChatClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/JAVA/SimpleChatServer$ClientHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/JAVA/SimpleChatServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Adapter/Duck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Adapter/DuckAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Adapter/DuckTestDrive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Adapter/MallardDuck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Adapter/Turkey.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Adapter/TurkeyAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Adapter/TurkeyTestDrive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Adapter/WildTurkey.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Command/diner/Cook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Command/diner/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Command/diner/Diner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Command/diner/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Command/diner/Waitress.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Command/dinerCommand/Cook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Command/dinerCommand/CookMakeBurgerCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Command/dinerCommand/CookMakeFriesCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Command/dinerCommand/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Command/dinerCommand/Diner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Command/dinerCommand/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Command/dinerCommand/Waitress.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Command/simpleremote/Command.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Command/simpleremote/GarageDoor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Command/simpleremote/GarageDoorDownCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Command/simpleremote/GarageDoorLightOffCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Command/simpleremote/GarageDoorOpenCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Command/simpleremote/GarageDoorStopCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Command/simpleremote/GarageLightOnCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Command/simpleremote/Light.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Command/simpleremote/LightOffCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Command/simpleremote/LightOnCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Command/simpleremote/RemoteControlTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Command/simpleremote/SimpleRemoteControl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Decorate/Coffee/Beverage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Decorate/Coffee/DarkRoast.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Decorate/Coffee/Decaf.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Decorate/Coffee/Espresso.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Decorate/Coffee/HouseBlend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Decorate/Condiment/CondimentDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Decorate/Condiment/Mocha.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Decorate/Condiment/Soy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Decorate/Condiment/Whip.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Decorate/StarbuzzCoffee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Duck/Duck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Duck/FlyBehavior/FlyBehavior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Duck/FlyBehavior/FlyNoWay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Duck/FlyBehavior/FlyRocketPowered.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Duck/FlyBehavior/FlyWithWings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Duck/MallardDuck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Duck/ModelDuck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Duck/QuackBehavior/MuteQuack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Duck/QuackBehavior/Quack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Duck/QuackBehavior/QuackBehavior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Duck/QuackBehavior/Squeak.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/AbstractFactory/Factory/ChicagoPizzaIngredientFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/AbstractFactory/Factory/NYPizzaIngredientFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/AbstractFactory/Factory/PizzaIngredientFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/Cheese.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/CheeseImpl/MozzarellaCheese.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/CheeseImpl/ReggianoCheese.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/Clams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/ClamsImpl/FreshClams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/ClamsImpl/FrozenClams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/Dough.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/DoughImpl/ThickCrustDough.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/DoughImpl/ThinCrustDough.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/Pepperoni.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/PepperoniImpl/SlicedPepperoni.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/Sauce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/SauceImpl/MarinaraSauce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/SauceImpl/PlumTomatoSauce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/Veggies.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/VeggiesImpl/BlackOlives.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/VeggiesImpl/Eggplant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/VeggiesImpl/Garlic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/VeggiesImpl/Mushroom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/VeggiesImpl/Onion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/VeggiesImpl/RedPepper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/AbstractFactory/Ingredient/VeggiesImpl/Spinach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/AbstractFactory/Pizza/CheesePizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/AbstractFactory/Pizza/ClamPizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/AbstractFactory/Pizza/PepperoniPizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/AbstractFactory/Pizza/Pizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/AbstractFactory/Pizza/VeggiePizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/AbstractFactory/PizzaStore/ChicagoPizzaStore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/AbstractFactory/PizzaStore/NYPizzaStore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/AbstractFactory/PizzaStore/PizzaStore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/AbstractFactory/PizzaTestDrive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/FactoryMethod/MyPizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/FactoryMethod/Pizza/ChicagoStyleCheesePizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/FactoryMethod/Pizza/ChicagoStyleClamPizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/FactoryMethod/Pizza/ChicagoStylePepperoniPizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/FactoryMethod/Pizza/ChicagoStyleVeggiePizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/FactoryMethod/Pizza/NYStyleCheesePizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/FactoryMethod/Pizza/NYStyleClamPizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/FactoryMethod/Pizza/NYStylePepperoniPizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/FactoryMethod/Pizza/NYStyleVeggiePizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/FactoryMethod/Pizza/Pizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/FactoryMethod/PizzaStore/ChicagoPizzaStore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/FactoryMethod/PizzaStore/NYPizzaStore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/FactoryMethod/PizzaStore/PizzaStore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/SimpleFactory/CheesePizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/SimpleFactory/ClamPizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/SimpleFactory/PepperoniPizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/SimpleFactory/Pizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/SimpleFactory/PizzaStore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/SimpleFactory/PizzaTestDriver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/SimpleFactory/SimplePizzaFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Factory/SimpleFactory/VeggiePizza.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Iterator/DIYIterator/DinerMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Iterator/DIYIterator/DinerMenuIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Iterator/DIYIterator/Iterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Iterator/DIYIterator/MenuItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Iterator/DIYIterator/MenuTestDrive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Iterator/DIYIterator/PancakeHouseIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Iterator/DIYIterator/PancakeHouseMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Iterator/DIYIterator/Waitress.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Iterator/InternalIterator/DinerMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Iterator/InternalIterator/DinerMenuIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Iterator/InternalIterator/Menu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Iterator/InternalIterator/MenuItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Iterator/InternalIterator/MenuTestDrive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Iterator/InternalIterator/PancakeHouseMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Iterator/InternalIterator/Waitress.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Observer/DIYObserver/CurrentConditionsDisplay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Observer/DIYObserver/DisplayElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Observer/DIYObserver/Observer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Observer/DIYObserver/Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Observer/DIYObserver/WeatherData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Observer/DIYObserver/WeatherStation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Observer/JavaObserver/CurrentConditionsDisplay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Observer/JavaObserver/DisplayElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Observer/JavaObserver/WeatherData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Observer/JavaObserver/WeatherStation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Singleton/chocolate/ChocolateBoiler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Singleton/chocolate/ChocolateController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Singleton/classic/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Singleton/classic/SingletonClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Singleton/doubleCheck/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Singleton/doubleCheck/SingletonClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Singleton/eagerly/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Singleton/eagerly/SingletonClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Singleton/threadsafe/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_Singleton/threadsafe/SingletonClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_TemplateMethod/Beverage/BeverageTestDrive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_TemplateMethod/Beverage/CaffeineBeverage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_TemplateMethod/Beverage/Coffee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_TemplateMethod/Beverage/Tea.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_TemplateMethod/BeverageWithHook/BeverageTestDrive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_TemplateMethod/BeverageWithHook/CaffeineBeverageWithHook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_TemplateMethod/BeverageWithHook/CoffeeWithHook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_TemplateMethod/BeverageWithHook/TeaWithHook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_TemplateMethod/Simple/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_TemplateMethod/Simple/Coffee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Head_First/Module/Module_TemplateMethod/Simple/Tea.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,13 +373,13 @@
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549591679686" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BigChainDBGUI" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Head-First-Design-源码" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.16831683" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.uml" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -247,33 +397,7 @@
       <recent name="E:\code\java\MY_STUDY_LIFE\src\main\java\Head_First\Module_Command" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SimpleChatClient">
-    <configuration name="BeverageTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Head_First.Module.Module_TemplateMethod.BeverageWithHook.BeverageTestDrive" />
-      <module name="MY_STUDY_LIFE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Head_First.Module.Module_TemplateMethod.BeverageWithHook.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MenuTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Head_First.Module.Module_Iterator.InternalIterator.MenuTestDrive" />
-      <module name="MY_STUDY_LIFE" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Head_First.Module.Module_Iterator.InternalIterator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ThreadWait">
     <configuration name="MenuTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Head_First.Module.Module_Iterator.DIYIterator.MenuTestDrive" />
       <module name="MY_STUDY_LIFE" />
@@ -288,11 +412,11 @@
       </method>
     </configuration>
     <configuration name="SimpleChatClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Head_First.JAVA.SimpleChatClient" />
+      <option name="MAIN_CLASS_NAME" value="study.SimpleChat.SimpleChatClient" />
       <module name="MY_STUDY_LIFE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Head_First.JAVA.*" />
+          <option name="PATTERN" value="study.SimpleChat.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -301,11 +425,50 @@
       </method>
     </configuration>
     <configuration name="SimpleChatServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Head_First.JAVA.SimpleChatServer" />
+      <option name="MAIN_CLASS_NAME" value="study.SimpleChat.SimpleChatServer" />
       <module name="MY_STUDY_LIFE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Head_First.JAVA.*" />
+          <option name="PATTERN" value="study.SimpleChat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadJoin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.Thread.ThreadJoin" />
+      <module name="MY_STUDY_LIFE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.Thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.Thread.ThreadStart" />
+      <module name="MY_STUDY_LIFE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.Thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadWait" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.Thread.ThreadWait" />
+      <module name="MY_STUDY_LIFE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.Thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -314,19 +477,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BeverageTestDrive (1)" />
       <item itemvalue="Application.MenuTestDrive" />
-      <item itemvalue="Application.MenuTestDrive (1)" />
       <item itemvalue="Application.SimpleChatServer" />
       <item itemvalue="Application.SimpleChatClient" />
+      <item itemvalue="Application.ThreadStart" />
+      <item itemvalue="Application.ThreadJoin" />
+      <item itemvalue="Application.ThreadWait" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadWait" />
+        <item itemvalue="Application.ThreadJoin" />
+        <item itemvalue="Application.ThreadStart" />
         <item itemvalue="Application.SimpleChatClient" />
         <item itemvalue="Application.SimpleChatServer" />
-        <item itemvalue="Application.MenuTestDrive (1)" />
-        <item itemvalue="Application.MenuTestDrive" />
-        <item itemvalue="Application.BeverageTestDrive (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -371,7 +535,10 @@
       <workItem from="1582524469765" duration="4795000" />
       <workItem from="1582591757023" duration="664000" />
       <workItem from="1582681031987" duration="4702000" />
-      <workItem from="1582718266554" duration="3334000" />
+      <workItem from="1582718266554" duration="4262000" />
+      <workItem from="1582770796496" duration="1059000" />
+      <workItem from="1582771875647" duration="14638000" />
+      <workItem from="1583139954093" duration="324000" />
     </task>
     <servers />
   </component>
@@ -387,38 +554,54 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="883" y="170" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1582696316098" />
-    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1582721247635">
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1582785965138">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1582721247635" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1582720299668">
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1582785965138" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1583139962209">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582720299668" />
-    <state width="1493" height="229" key="GridCell.Tab.0.bottom" timestamp="1582721845360">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583139962209" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1582813228240">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="229" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582721845360" />
-    <state width="1493" height="229" key="GridCell.Tab.0.center" timestamp="1582721845360">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582813228240" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1582813228240">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="229" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582721845360" />
-    <state width="1493" height="229" key="GridCell.Tab.0.left" timestamp="1582721845360">
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582813228240" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1582813228240">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="229" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582721845360" />
-    <state width="1493" height="229" key="GridCell.Tab.0.right" timestamp="1582721845360">
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582813228240" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1582813228240">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="229" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582721845360" />
-    <state x="270" y="0" key="SettingsEditor" timestamp="1581513210612">
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582813228240" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1582813228240">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1581513210612" />
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1582718266667">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582813228240" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1582813228240">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582718266667" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1582813228240" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1582813228240">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1582813228240" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1582813228240">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582813228240" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1582784474852">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1582784474852" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1582770905072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582770905072" />
     <state x="115" y="179" key="extract.method.dialog" timestamp="1582720254190">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -441,11 +624,19 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Head_First/Module/Module_Observer/DIYObserver/WeatherStation.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/study/Module/Module_Observer/DIYObserver/WeatherStation.java</url>
           <line>18</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/study/Thread/ThreadWait.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
       </breakpoints>
+      <breakpoints-defaults>
+        <breakpoint suspend="THREAD" type="java-line" />
+      </breakpoints-defaults>
     </breakpoint-manager>
   </component>
 </project>
